@@ -1,0 +1,2 @@
+<a href="#" data-toggle="modal" data-target="#loginSignupModal" data-target-sub="#login">Login</a>
+<a href="#" data-toggle="modal" data-target="#loginSignupModal" data-target-sub="#signup" style="margin-left: 5px;">Sign up</a>
