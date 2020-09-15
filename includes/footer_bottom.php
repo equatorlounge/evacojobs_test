@@ -3,7 +3,7 @@
     <div class="container">
         <div class="row">
 
-            <!-- Footer Copyright Start -->
+            <!-- Footer Copyright :: Start -->
             <div class="col-12">
                 <p class="footer-copyright text-center">
                     Copyright &copy; 2020
@@ -12,7 +12,7 @@
                     Evaco Ltd has notes listed on the Stock Exchange of Mauritius and is a reporting issuer regulated by the FSC.
                 </p>
             </div>
-            <!-- Footer Copyright End -->
+            <!-- Footer Copyright :: End -->
 
         </div>
     </div>
