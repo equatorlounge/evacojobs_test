@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html class="no-js" lang="en">
 
-<!-- Whole rep will now be gitted -->
+<!-- Whole rep will now be gitted and branched -->
 <?php include ('includes/head.php'); ?>
 
 <body>
